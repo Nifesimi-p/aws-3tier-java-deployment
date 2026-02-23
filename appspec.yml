@@ -3,8 +3,8 @@ os: linux
 
 files:
   - source: Java-Login-App/target/dptweb-1.0-SNAPSHOT.war
-    destination: /usr/share/tomcat/webapps
-
+    destination: /opt/tomcat/webapps
+    
 hooks:
   ApplicationStop:
     - location: scripts/stop.sh
