@@ -15,7 +15,7 @@
 
     <groupId>com.devopsrealtime</groupId>
     <artifactId>dptweb</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>dptweb</name>
     <description>DPT DevOps project for Spring Boot</description>
