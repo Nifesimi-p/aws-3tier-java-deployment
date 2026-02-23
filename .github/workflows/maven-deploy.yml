@@ -41,3 +41,4 @@ jobs:
 
       - name: Build and Deploy
         run: mvn clean deploy
+        working-directory: Java-Login-App
