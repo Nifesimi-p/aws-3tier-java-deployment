@@ -1,2 +1,4 @@
 #!/bin/bash
-systemctl stop tomcat || true
+echo "Stopping Tomcat..."
+systemctl stop tomcat
+exit 0
