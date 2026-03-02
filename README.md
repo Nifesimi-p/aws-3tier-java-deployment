@@ -431,7 +431,13 @@ Laptop → Bastion Host (ManagementVPC) → Transit Gateway → Private Instance
 ---
 
 ## Deliverables
-
+- ![VPC-overview](https://github.com/Nifesimi-p/aws-3tier-java-deployment/blob/main/Screenshots/Architecture/VPC-overview.png)
+- ![Subnets-architecture](https://github.com/Nifesimi-p/aws-3tier-java-deployment/blob/main/Screenshots/Architecture/subnet%20archi.png)
+- ![Artillery-report](https://github.com/Nifesimi-p/aws-3tier-java-deployment/blob/main/Screenshots/Performance/Artillery-Report.png)
+- ![FE](https://github.com/Nifesimi-p/aws-3tier-java-deployment/blob/main/Screenshots/application/FE-server.png)
+- ![CI/CD-pipeline](https://github.com/Nifesimi-p/aws-3tier-java-deployment/blob/main/Screenshots/ci%3Acd/CI%3ACD-pipeline.png)
+- ![ASG-activity](https://github.com/Nifesimi-p/aws-3tier-java-deployment/blob/main/Screenshots/high-availabilty/Autoscaling-activity.png)
+- ![Cloudwatch-dashboard](https://github.com/Nifesimi-p/aws-3tier-java-deployment/blob/main/Screenshots/monitoring/Cloudwatch-dashboard.webp)
 ---
 
 ##  Challenges & Solutions
